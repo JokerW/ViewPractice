@@ -22,7 +22,8 @@
             android:minHeight="10dp"
             android:title="@string/app_name"
             app:popupTheme="@style/AppTheme.PopupOverlay"
-            app:title="@string/app_name" />
+            app:title="@string/app_name"
+            />
 
     </android.support.design.widget.AppBarLayout>
 

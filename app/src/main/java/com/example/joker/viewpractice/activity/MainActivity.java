@@ -28,23 +28,23 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.main_coordinator_textview:
-//                SimpleCoordinatorActivity.start(this);
+                SimpleCoordinatorActivity.start(this);
                 break;
 
             case R.id.main_ioexample_textview:
-//                IOActivityExample.start(this);
+                IOActivityExample.start(this);
                 break;
 
             case R.id.main_space_textview:
-//                FlexibleSpaceExampleActivity.start(this);
+                FlexibleSpaceExampleActivity.start(this);
                 break;
 
             case R.id.main_materialup_textview:
-//                MaterialUpConceptActivity.start(this);
+                MaterialUpConceptActivity.start(this);
                 break;
 
             case R.id.main_swipebehavior_textview:
-//                SwipeBehaviorExampleActivity.start(this);
+                SwipeBehaviorExampleActivity.start(this);
                 break;
         }
     }

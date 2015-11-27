@@ -43,5 +43,11 @@
 
 		\n\n Enjoy
 	</string>
-    <string name="swype.help">The \'Swipe to dismiss\' behavior allows you to easily add the \'Swipe to dismiss\' functionality in a View inside a CoordinatorLayout</string>
-</resources>
+
+    <!-- strings -->
+    <string name="quila_name">Quila</string>
+    <string name="quila_tagline">I love bones and slippers</string>
+    <string name="quila_name2">Quila!</string>
+
+<string name="swype.help">The \'Swipe to dismiss\' behavior allows you to easily add the \'Swipe to dismiss\' functionality in a View inside a CoordinatorLayout</string>
+    </resources>

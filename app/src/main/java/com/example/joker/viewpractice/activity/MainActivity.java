@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.main_ioexample_textview).setOnClickListener(this);
         findViewById(R.id.main_space_textview).setOnClickListener(this);
         findViewById(R.id.main_swipebehavior_textview).setOnClickListener(this);
+        findViewById(R.id.main_behavior_textview).setOnClickListener(this);
 
     }
 
@@ -45,6 +46,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.main_swipebehavior_textview:
                 SwipeBehaviorExampleActivity.start(this);
+                break;
+            case R.id.main_behavior_textview:
+                BehaviorActivity.start(this);
                 break;
         }
     }

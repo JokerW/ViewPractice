@@ -4,7 +4,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 
-package com.example.joker.viewpractice.activity;
+package com.example.joker.viewpractice.widget;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

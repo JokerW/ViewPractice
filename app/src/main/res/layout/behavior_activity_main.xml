@@ -149,7 +149,7 @@
 			android:layout_height="@dimen/image_width"
 			android:layout_gravity="center"
 			android:src="@drawable/quila"
-			app:layout_behavior="com.example.joker.viewpractice.activity.AvatarImageBehavior"
+			app:layout_behavior="com.example.joker.viewpractice.widget.AvatarImageBehavior"
 			/>
 
 	</android.support.design.widget.CoordinatorLayout>

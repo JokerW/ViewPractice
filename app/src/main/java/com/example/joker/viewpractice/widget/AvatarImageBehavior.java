@@ -1,4 +1,4 @@
-package com.example.joker.viewpractice.activity;
+package com.example.joker.viewpractice.widget;
 
 import android.content.Context;
 import android.support.design.widget.CoordinatorLayout;

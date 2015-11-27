@@ -15,6 +15,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.example.joker.viewpractice.R;
+import com.example.joker.viewpractice.fragment.MaterialUpConceptFakePage;
 
 public class MaterialUpConceptActivity extends AppCompatActivity
 	implements AppBarLayout.OnOffsetChangedListener {

@@ -3,7 +3,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
-package com.example.joker.viewpractice.activity;
+package com.example.joker.viewpractice.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,6 +14,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.joker.viewpractice.R;
+import com.example.joker.viewpractice.activity.FakePageAdapter;
 
 public class MaterialUpConceptFakePage extends Fragment {
 	private RecyclerView mRootView;

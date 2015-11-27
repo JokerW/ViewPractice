@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.joker.viewpractice.R;
+import com.example.joker.viewpractice.widget.FakePageVH;
 
 public class FakePageAdapter extends RecyclerView.Adapter<FakePageVH> {
 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/AvatarImageBehavior.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/BehaviorActivity.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/FakePageAdapter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/FakePageVH.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/FlexibleSpaceExampleActivity.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/IOActivityExample.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/MaterialUpConceptActivity.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/MaterialUpConceptFakePage.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/activity/SwipeBehaviorExampleActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/fragment/MaterialUpConceptFakePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/widget/AvatarImageBehavior.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/joker/viewpractice/widget/FakePageVH.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi/london_flat.png" charset="GBK" />

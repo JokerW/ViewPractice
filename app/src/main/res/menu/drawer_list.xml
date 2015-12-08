@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gridview"
+            android:checked="true"
+            android:title="Grid Demo" />
+        <item
+            android:id="@+id/listview"
+            android:title="List Demo" />
+        <item
+            android:id="@+id/recyclerview"
+            android:title="Recycler Demo" />
+        <item
+            android:id="@+id/scrollview"
+            android:title="Scroll Demo" />
+        <item
+            android:id="@+id/miscview"
+            android:title="Misc Demo" />
+    </group>
+</menu>

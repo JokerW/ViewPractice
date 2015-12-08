@@ -49,5 +49,14 @@
     <string name="quila_tagline">I love bones and slippers</string>
     <string name="quila_name2">Quila!</string>
 
+	<string name="grid_view_demo_title">GridView Over-Scroll Demo</string>
+	<string name="list_view_demo_title">ListView Over-Scroll Demo</string>
+	<string name="recycler_view_demo_title">RecyclerView Over-Scroll Demo</string>
+	<string name="scroll_view_demo_title">ScrollView Over-Scroll Demo</string>
+	<string name="misc_views_demo_title">Misc. Over-Scroll Demo</string>
+
+	<string name="drawer_open">drawer open</string>
+	<string name="drawer_close">drawer close</string>
+
 <string name="swype.help">The \'Swipe to dismiss\' behavior allows you to easily add the \'Swipe to dismiss\' functionality in a View inside a CoordinatorLayout</string>
     </resources>
